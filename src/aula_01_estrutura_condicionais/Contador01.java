@@ -1,4 +1,4 @@
-package aula_01;
+package aula_01_estrutura_condicionais;
 
 public class Contador01 {
     public static void main(String[] args){
